@@ -8,6 +8,10 @@
 	color: red;
 }
 
+.spacing{
+	margin: 3px;
+}
+
 #shapes{
 	background-color: #000000;
 }
