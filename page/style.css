@@ -11,3 +11,19 @@
 #shapes{
 	background-color: #000000;
 }
+
+#triangle{
+	background-color: green;
+}
+
+#square{
+	background-color: blue;
+}
+
+#rectangle{
+	background-color: yellow;
+}
+
+#circle{
+	background-color: red;
+}
