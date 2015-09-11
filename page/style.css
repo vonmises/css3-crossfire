@@ -34,8 +34,24 @@
 	background-color: red;
 }
 
+#triangle-div{
+	width: 0; 
+	height: 0; 
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;	
+	border-bottom: 100px solid white;
+}
+
 #square-div{
 	background-color: #ffffff;
+	margin: 10px;
 	width: 100px;
+	height: 100px;
+}
+
+#rectangle-div{
+	background-color: #ffffff;
+	margin: 10px;
+	width: 200px;
 	height: 100px;
 }
