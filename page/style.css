@@ -4,5 +4,6 @@
 	background-color: gray;
 }
 
-#title{
+#title h2{
+	color: red;
 }
